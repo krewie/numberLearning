@@ -3,8 +3,8 @@ from PIL import ImageTk, Image, ImageDraw
 import PIL
 from tkinter import *
 
-width = 200
-height = 200
+width = 128
+height = 128
 center = height//2
 white = (255, 255, 255)
 green = (0,128,0)
