@@ -16,4 +16,4 @@ class NeuralNetwork:
         self.output = sigmoid(np.dot(self.layer1, self.weights2))
 
     def result(self):
-        return self.input
+        return self.output
